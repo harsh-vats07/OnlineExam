@@ -1,5 +1,6 @@
 # OnlineExam
-hello, this is my project on Online Examination System where a Student can Login and participate in an exam. After that he/she can view their result
+Hello, this is my project on Online Examination System where a Student can Login and participate in an exam. After that he/she can view their result, update their profile, change their password.Also there is an Admin Login option where admin can add new students to the test
+add new questions and asnwers to the test, add new keywords, view th result of the students that have participated in the test and also change their password.
 
 ![Welcome](https://github.com/harsh-vats07/OnlineExam/assets/141484560/72035f86-8d45-4e88-8df2-dd62e3b0df9b)
 ![Login](https://github.com/harsh-vats07/OnlineExam/assets/141484560/96ab1b45-b98c-4944-9704-7b13ab295498)
